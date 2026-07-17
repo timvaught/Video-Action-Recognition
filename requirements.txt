@@ -1,0 +1,10 @@
+torch>=2.2
+torchvision>=0.17
+numpy>=1.26
+Pillow>=10.0
+scikit-learn>=1.4
+tqdm>=4.66
+wandb>=0.17
+huggingface_hub>=0.25
+hf_xet>=1.1
+pylint>=3.2
